@@ -171,5 +171,6 @@ cython_debug/
 
 # End of https://www.toptal.com/developers/gitignore/api/visualstudiocode,python,jupyternotebooks
 
-/scholarProfile/README.txt
-/scholarProfile/yusnita_gScholar.xlsx
+/scholarProfile/*
+!/scholarProfile/scholarProfile.ipynb
+!/scholarProfile/yusnita_gScholar.xlsx
